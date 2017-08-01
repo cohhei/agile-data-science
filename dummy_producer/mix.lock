@@ -1,0 +1,3 @@
+%{"json": {:hex, :json, "1.0.2", "fa75ed4f355cd4ab468c25588171f8002a7274d3d5fb376c18822ddfc7c33f1f", [], [], "hexpm"},
+  "kafka_ex": {:hex, :kafka_ex, "0.7.0", "111f4e71ce61eceafc183283764f5eca7c664e2c2c5d41616b22653f6e2b67df", [], [], "hexpm"},
+  "snappy": {:git, "https://github.com/fdmanana/snappy-erlang-nif", "4e3b8611b6a1ff85a417b0f2fad8886c9485810e", []}}
