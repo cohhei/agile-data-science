@@ -30,7 +30,7 @@ use Mix.Config
 #     import_config "#{Mix.env}.exs"
 config :kafka_ex,
   brokers: [
-    {"localhost", 9092}
+    {"localhost", 19092}
   ],
   consumer_group: :no_consumer_group,
   use_ssl: false
